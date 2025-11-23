@@ -1,4 +1,7 @@
 # paytm Project
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/5ce97a1c-bb33-4cb5-992c-70e2648215de" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/8190740f-ebdd-4a2f-9f23-d0e357133606" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/af262291-468a-40f0-b95b-55e01a5a23fc" />
 
 This repository contains both backend and frontend code for the Paytm project.
 
